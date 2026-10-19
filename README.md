@@ -164,9 +164,6 @@ IoT_Honeypot_Modular/
 └── 07_WebHandlers.ino        # HTTP route handlers
 ```
 
-> [!NOTE]
-> This README is based on the project documentation. **The source-code files above are not contained in the documentation PDF** and must be uploaded separately for visitors to compile the project.
-
 ## Getting Started
 
 1. **Assemble the circuit.** Wire the DHT11, SH1106 OLED, LEDs, and transistor-driven active buzzer according to the pin table above.
